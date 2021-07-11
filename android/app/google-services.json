@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "547208886212",
+    "firebase_url": "https://vechile-sewa.firebaseio.com",
+    "project_id": "vechile-sewa",
+    "storage_bucket": "vechile-sewa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547208886212:android:4ffd4188473a1e56de5691",
+        "android_client_info": {
+          "package_name": "com.rj.vehicleSewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547208886212-vuldod6kmj9kgk4crc2ujv52ubfggvc6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0cKpLxGu4GQiZ9MLw8ee_OHbfHPXPIoM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547208886212-vuldod6kmj9kgk4crc2ujv52ubfggvc6.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "547208886212-o8s0edeujj4a56rcucd975nobpremg7v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "vechilesewa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
